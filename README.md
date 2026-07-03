@@ -19,6 +19,18 @@ Build • Flash • Debug • Learn
 
 </div>
 
+## 🎥 Watch Full Tutorial on YouTube
+
+<p align="center">
+  <a href="https://youtu.be/qKnp0oNrI6M">
+    <img src="https://img.youtube.com/vi/qKnp0oNrI6M/maxresdefault.jpg" alt="STM32 Programming Tutorial" width="850">
+  </a>
+</p>
+
+<p align="center">
+  <b>📺 Click the thumbnail above to watch the complete tutorial.</b>
+</p>
+
 ---
 
 # 📖 Overview
