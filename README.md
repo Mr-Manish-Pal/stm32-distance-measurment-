@@ -1,15 +1,13 @@
 <div align="center">
 
-# 🚀 STM32 Programming for Beginners
+#  STM32 Distance measurment system
 
 ### Professional Embedded Systems Project using **STM32F103C8T6 (Blue Pill)** & **ST-Link V2**
 
 Build • Flash • Debug • Learn
 
 <p>
-
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-STM32CubeIDE-success?style=for-the-badge)
 ![MCU](https://img.shields.io/badge/MCU-STM32F103C8T6-green?style=for-the-badge)
 ![ARM](https://img.shields.io/badge/ARM-Cortex--M3-red?style=for-the-badge)
@@ -105,39 +103,6 @@ This repository is structured like professional open-source projects so that stu
 
 ---
 
-# 📂 Repository Structure
-
-```text
-STM32-Programming-Blue-Pill/
-
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── docs/
-│   ├── Hardware.md
-│   ├── Connections.md
-│   ├── Workflow.md
-│   ├── Features.md
-│   ├── Learning-Outcome.md
-│   └── Code-Explanation.md
-│
-├── Images/
-│   ├── Banner.png
-│   ├── Hardware.jpg
-│   ├── Connections.png
-│   ├── Demo.gif
-│   └── Thumbnail.png
-│
-├── STM32CubeIDE_Project/
-│
-├── Source/
-│   └── main.c
-│
-└── Datasheets/
-```
-
----
 
 # 📚 Documentation
 
