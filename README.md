@@ -53,11 +53,20 @@ This repository is structured like professional open-source projects so that stu
 
 # 🖼 Project Preview
 
-> Replace these images with your own.
+project images.
 
-| Hardware | Wiring | Demo |
-|----------|---------|------|
-| ![](Images/Hardware.jpg) | ![](Images/Connections.png) | ![](Images/Demo.gif) |
+<p align="center">
+  <img src="image-1.png" width="100%" alt="Project Banner">
+</p>
+
+<p align="center">
+  <img src="image-2.png" width="100%" alt="STM32 Distance Measurement">
+</p>
+
+<p align="center">
+  <img src="image-3.png" width="100%" alt="Hardware Setup">
+</p>
+
 
 ---
 
