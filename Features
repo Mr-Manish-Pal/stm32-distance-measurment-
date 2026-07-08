@@ -1,0 +1,10 @@
+
+## ⚙ Key Features
+
+* Accurate ultrasonic distance measurement
+* Timer-based pulse detection
+* GPIO control using STM32 HAL
+* Clean firmware structure
+* Easy-to-understand source code
+* Expandable architecture
+* Industry-standard project organization
