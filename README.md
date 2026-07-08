@@ -27,6 +27,26 @@
 
 </div>
 
+# 🎥 Watch Full Project Tutorial
+
+<p align="center">
+  <a href="https://youtu.be/qKnp0oNrI6M">
+    <img src="https://img.youtube.com/vi/qKnp0oNrI6M/maxresdefault.jpg"
+         alt="STM32 Ultrasonic Distance Measurement System Tutorial"
+         width="900">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/qKnp0oNrI6M">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+<b>Click the thumbnail above to watch the complete project tutorial.</b>
+</p>
+
 ---
 
 # 📖 Project Overview
